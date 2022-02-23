@@ -1,0 +1,4 @@
+-r requirements.txt
+-f https://download.pytorch.org/whl/torch_stable.html
+numpy==1.19.2
+torch==1.8.1+cu101
